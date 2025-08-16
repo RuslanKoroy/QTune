@@ -52,7 +52,7 @@ QTune is a comprehensive web application for fine-tuning language models on cons
 ### Quick Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/RuslanKoroy/QTune
 cd qtune
 
 # Install dependencies
